@@ -101,11 +101,11 @@
 	      <url>http://20.244.30.232:8081/repository/abc-snapchot/</url>
 	    </repository>
 	    
-	    <snapshotRepository>
+	    <!-- <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
 	      <url>http://20.244.30.232:8081/repository/abc-release/</url>
-	    </snapshotRepository>
+	    </snapshotRepository> -->
 	    
 	</distributionManagement>
 	
